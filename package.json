@@ -1,0 +1,25 @@
+{
+  "name": "codeberry",
+  "version": "1.0.0",
+  "description": "codeberry machine learning project",
+  "main": "churnacle_master.js",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "ndjson": "^1.5.0",
+	"events": "^1.1.1",
+	"promise": "^8.0.1",
+	"intercom-client": "^2.9.1",
+	"fast-csv": "^2.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "console.log(\"testing...\")"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Entazis/churnacle-node.git"
+  },
+  "homepage": "https://github.com/Entazis/churnacle-node.git"
+}
